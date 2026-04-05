@@ -52,6 +52,7 @@ Architectural Rigor: Professional use of Docker, PostgreSQL, and Python in a Saa
 
 # 📬 Contact & Links
 Live Application: ClassCraft Beta at https://classcraft-beta.onrender.com/
+ClassCraft Architecture Blueprint: https://github.com/Gio-Reg/ClassCraft-System-Architecture/blob/main/Classcraft%20Architecture.png
 Developer: Giorgio Regnoli, PhD
 
 LinkedIn: https://www.linkedin.com/in/giorgio-regnoli/
